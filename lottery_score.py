@@ -20,3 +20,4 @@ class Lottery(IconScoreBase):
     @external(readonly=True)
     def name(self) -> str:
         return "SampleToken"
+'''branch'''
