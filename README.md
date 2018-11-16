@@ -57,7 +57,7 @@ If you want to participate , first of all , deploy this project to your blockcha
 
 
 # Structure
-Please, Refer to [Github](https://github.com/nomadconnection/lottery_score) if you want full source codes
+Please, Refer to [Github](https://github.com/nomadconnection/lottery_score) if you want full source codes.
 When you try to participate , The below function will be called
 ```
 @external
