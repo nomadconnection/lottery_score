@@ -242,4 +242,4 @@ class Lottery(IconScoreBase):
         for winner in self.wwww:
             winner_str += str(winner) + ' '
         return winner_str
-    # ################################
+    # ###################################
