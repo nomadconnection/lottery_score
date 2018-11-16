@@ -1,0 +1,6 @@
+{
+  "test.py::TestGetterMethods::test_hello": true,
+  "test.py::TestGetterMethods::test_name": true,
+  "test.py::TestGetterMethods::test_send_icx_to_ca": true,
+  "test.py::TestGetterMethods::test_send_token_to_ca": true
+}
